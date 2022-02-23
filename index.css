@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 50px 220px;
+}
+.item{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+}
